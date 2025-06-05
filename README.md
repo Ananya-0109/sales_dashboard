@@ -23,4 +23,18 @@ To view this dashboard:
 - Interactive filtering
 - Segment-wise performance analysis
 - Customer and product insights
+Tools Used
+
+- Tableau Desktop
+- GitHub for version control and sharing
+
+
+
+## 👤 Author Info
+
+Name:Ananya Singh
+
+GitHub:https://github.com/Ananya-0109
+
+
 
