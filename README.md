@@ -24,10 +24,3 @@ To view this dashboard:
 - Segment-wise performance analysis
 - Customer and product insights
 
-## 🔒 Data Privacy
-
-⚠️ This file does not contain any sensitive or personal data.
-
----
-
-*Built using Tableau Desktop*
