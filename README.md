@@ -14,10 +14,8 @@ These files allow you to explore the dashboard either interactively in Tableau o
 
 ---
 ## 🖼️ Dashboard Previews
+![Screenshot 2025-06-05 125158](https://github.com/user-attachments/assets/76428f13-61e6-4aa7-b80f-2e3406977ff8)
 
-
-
-> 📌 *These visuals show key insights from the dashboard including segment profit margins, regional sales, top customers, and top-selling products.*
 
 
 
