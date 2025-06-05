@@ -13,6 +13,17 @@ The dashboard provides a comprehensive analysis of sales performance across regi
 These files allow you to explore the dashboard either interactively in Tableau or as a static preview.
 
 ---
+## 🖼️ Dashboard Previews
+
+<p align="center">
+  <img src="images/dashboard-preview-2.png" alt="Profit Margin View" width="400"/>
+  &nbsp;&nbsp;
+  <img src="images/dashboard-preview-3.png" alt="Top Customer and Product View" width="400"/>
+</p>
+
+> 📌 *These visuals show key insights from the dashboard including segment profit margins, regional sales, top customers, and top-selling products.*
+
+
 
 ## 📁 File Descriptions
 
