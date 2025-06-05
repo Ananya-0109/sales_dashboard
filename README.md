@@ -1,40 +1,60 @@
-# 📊 Sales Dashboard (Tableau)
+# 📊 Sales Dashboard Project
 
-This repository contains a Tableau workbook file (`SalesDashboard.twb`) that provides a comprehensive visualization of sales data.
+This repository contains a Tableau dashboard and related resources.  
+The dashboard provides a comprehensive analysis of sales performance across regions, customer segments, and time periods.
 
-## 📁 File Description
+---
 
-- `SalesDashboard.twb`: Tableau workbook including visualizations such as:
+## 🔗 View Dashboard Files
+
+- 📁 [Download Workbook (.twbx)](SalesDashboard.twbx)
+- 🖼️ [Preview Dashboard (PDF)](Dashboard.pdf)
+
+These files allow you to explore the dashboard either interactively in Tableau or as a static preview.
+
+---
+
+## 📁 File Descriptions
+
+- **SalesDashboard.twbx** – Tableau Packaged Workbook file that includes:
   - Bar charts (e.g., Regional Sales)
   - Line charts (Monthly Trends)
-  - Pie charts (Segment Profit)
+  - Pie charts (Segment Profit Distribution)
   - Tables (Top Customers)
   - Filters (Region, Segment, Category)
 
-## 🛠️ How to View
+- **SalesDashboard.pdf** – A PDF export of the dashboard to preview without Tableau
 
-To view this dashboard:
+---
 
-1. Download `SalesDashboard.twb` file
+## 🛠️ How to View the Dashboard
+
+1. Download the `.twbx` file from this repository
 2. Open it using **Tableau Desktop** or **Tableau Public**
+3. Use filters and visuals to interact with the data
+
+---
 
 ## 📌 Features
 
-- Interactive filtering
-- Segment-wise performance analysis
-- Customer and product insights
-Tools Used
+- Interactive filtering by Region, Segment, and Category
+- Segment-wise performance breakdown
+- Sales, Profit, and Quantity KPIs
+- Customer and product-level insights
+- Monthly sales trends and regional comparisons
 
-- Tableau Desktop
-- GitHub for version control and sharing
+---
 
+## 🧰 Tools Used
 
+- **Tableau Desktop** – for building the dashboard
+- **GitHub** – for version control and project sharing
 
-## 👤 Author Info
+---
 
-Name:Ananya Singh
+## 👤 Author
 
-GitHub:https://github.com/Ananya-0109
-
+**Name:** Ananya Singh  
+**GitHub:** [Ananya-0109](https://github.com/Ananya-0109)
 
 
